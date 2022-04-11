@@ -93,3 +93,5 @@ Detailed documentation
 
 # ScreenShot
 
+![Uploading vue-clean-minimal-ecommerce-redux-template.png…]()
+
